@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VideoDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">select one method</string>
+    <string name="float_window">Float Video</string>
+    <string name="title_activity_video_view">VideoViewActivity</string>
+    <string name="title_activity_surface_view">SurfaceViewActivity</string>
+    <string name="title_activity_texture_view">TextureViewActivity</string>
+    <string name="no_video">can not find video on this device.</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">intro</string>
+
+</resources>
